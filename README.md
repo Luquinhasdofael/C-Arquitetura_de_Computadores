@@ -1,2 +1,4 @@
-<h1>CPU</h1>
+<h1>Arquitetura de Computadores</h1>
+<h3>CPU</h3>
 <p>A CPU(Central Processing Unit) é o componente responsável pela execução das instruções de um programa. Durante a execução do programa, o processador "lê" a instrução corrente realiza as operações especificadas e determina qual a próxima instrução a ser executada. Esse processo se repete até a CPU ler uma instrução que indique o fim do programa</p>
+<h4>Muitas dessas instruções precisam de um lugar para armazenar os resultados e retirar os operandos. Na computação, os operando e resultados são chamados de <strong>Valores ou Dados:</strong> uma sequência de bits que podem representar um número, caractere ou qualquer outro valor qualquer.O lugar responsável por armazenar os operandos das instruções se chama registrador.Entende-se como uma caixa única que armazena uma informação de forma tempóraria.</h4>
