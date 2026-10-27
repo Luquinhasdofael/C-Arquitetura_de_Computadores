@@ -11,3 +11,4 @@
 <h5>A "Memória" da RAM</h5>
 <p>A memória de um computador é composta por uma sequência finita de unidades de armazenamento de dados, cada qual é identificada por um endereço, isto é, um número inteiro não negativo que indica sua posição nessa sequência. Nesse sentido, cada unidade de armazenamento de dados recebe o nome "palavra". Uma palavra de armazenamento é geralmente composta de 4 a 8 bytes dependendo do sistema operacional de sua máquina. Um byte é contém em si uma série de 8 bits.</p>
 <p>Ponteiros são variaveis que guardam para o endereço em que outra variavel ocupa</p>
+<p>wow explodi apredendo ponteiros. ponteiros sao variaveis que guardam o endereço em que uma variavel esta guardada. a ram consiste em uma sequencia de machine word, cada uma tem seu endereço, que é onde esta word esta localizada na sequencia, uma word e composta de 4 a 8 bytes dependendo do sistema operacional do seu computador 32x ou 64x. o ponteiro guarda esse endereço</p>
