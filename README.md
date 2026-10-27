@@ -10,3 +10,4 @@
 <p>A memória principal, ou somente RAM(Random Acess Memory) é o componente responsável por guardar todos os programas a serem executados pela CPU e os dados manipulados por esses programas, ou seja, desde o sistema operacional até um web browser. Essa característica perculiar de guardar todos os dados e programas em um único lugar recebe o nome de "Arquitetura de Von Neumann".</p>
 <h5>A "Memória" da RAM</h5>
 <p>A memória de um computador é composta por uma sequência finita de unidades de armazenamento de dados, cada qual é identificada por um endereço, isto é, um número inteiro não negativo que indica sua posição nessa sequência. Nesse sentido, cada unidade de armazenamento de dados recebe o nome "palavra". Uma palavra de armazenamento é geralmente composta de 4 a 8 bytes dependendo do sistema operacional de sua máquina. Um byte é contém em si uma série de 8 bits.</p>
+<p>Ponteiros são variaveis que guardam para o endereço em que outra variavel ocupa</p>
